@@ -4,3 +4,4 @@ And I'm learning how to use git add something
 Some other stuff
 making changes
 Yo
+Yes some other line.. perfect
